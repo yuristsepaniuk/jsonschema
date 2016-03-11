@@ -80,7 +80,7 @@ Simple object validation using JSON schemas.
   console.log(v.validate(p, schema));
 ```
 
-For a comprehensive, annotated example illustrating all possible validation options, see [examples/all.js](./examples/all.js)
+For a comprehensive, annotated example illustrating all possible validation options, see [https://github.com/tdegrunt/jsonschema/blob/master/examples/all.js](./examples/all.js)
 
 ## Features
 

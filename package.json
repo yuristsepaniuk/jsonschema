@@ -1,0 +1,23 @@
+{
+  "name": "jsonschema-amd",
+  "version": "1.1.0",
+  "description": "amd version of 'jsonschema' module 'npm install jsonschema'",
+  "main": "jsonschema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuristsepaniuk/jsonschema.git"
+  },
+  "keywords": [
+    "jsonschema",
+    "jsonschema-amd"
+  ],
+  "author": "yuri.stsepaniuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuristsepaniuk/jsonschema/issues"
+  },
+  "homepage": "https://github.com/yuristsepaniuk/jsonschema#readme"
+}
